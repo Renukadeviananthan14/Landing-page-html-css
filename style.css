@@ -1,0 +1,92 @@
+body{
+	background-color: darkblue;
+	color: white;
+	font-family: Arial;
+}
+nav{
+	padding: 40px;
+	margin-left: 15%;
+}
+li,ul{
+    display: inline;
+    margin-right: 20px;
+}
+#heading1{
+	display: inline;
+    margin-right: 20px;
+}
+ul{
+	margin-left: 30%;
+}
+.overview{
+	color: grey;
+}
+.button{
+	background-color: deeppink;
+	color: white;
+	border-radius: 20px;
+	padding: 10px;
+}
+#heading2{
+	padding: 40px;
+	margin-left: 17%;
+	font-size: 100px;
+}
+.column{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 200px;
+  margin-left: 17%;
+  line-height: 1.5;
+
+}
+.column2{
+	background-color: white;
+	color: black;
+	height: 500px;
+	width: 400px;
+	float: right;
+	margin-right:17% ;
+	text-align: center;
+	border-radius: 15px;
+	line-height: 1.5;
+}
+.row:after {
+  display: table;
+}
+input[type=text]{
+	padding: 12px 20px;
+	border-radius: 15px;
+	margin: 8px 0;
+	width: 250px;
+	border-width: thin;
+	text-align: left;
+}
+.submit{
+	background-color: mediumblue;
+	color: white;
+	border-radius: 20px;
+	padding: 10px;
+	width: 300px;
+	position: relative;
+}
+.twitter{
+	background-color: deepskyblue;
+	color: white;
+	border-radius: 20px;
+	padding: 10px;
+	width: 300px;
+}
+.heading2{
+	font-size: 50px;
+	line-height: 1;
+}
+.signup{
+	font-size: 40px;
+	color: darkblue;
+}
+#para{
+	font-size: 17px;
+	width: 60%;
+}
